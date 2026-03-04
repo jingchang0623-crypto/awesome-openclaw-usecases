@@ -74,6 +74,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | [Habit Tracker & Accountability Coach](usecases/habit-tracker-accountability-coach.md) | Proactive daily check-ins via Telegram or SMS that track habits, maintain streaks, and adapt their tone based on your progress. |
 | [Second Brain](usecases/second-brain.md) | Text anything to your bot to remember it, then search through all your memories in a custom Next.js dashboard. |
 | [Event Guest Confirmation](usecases/event-guest-confirmation.md) | Call a list of event guests one-by-one to confirm attendance, collect notes, and compile a summary — fully automated via AI voice calls. |
+| [Phone Call Notifications](usecases/phone-call-notifications.md) | Turn your agent's alerts into real phone calls — morning briefings, price drops, urgent emails — with two-way conversation. |
 
 ## Research & Learning
 
