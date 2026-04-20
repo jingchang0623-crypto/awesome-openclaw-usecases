@@ -48,6 +48,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | [Goal-Driven Autonomous Tasks](usecases/overnight-mini-app-builder.md) | Brain dump your goals and have your agent autonomously generate, schedule, and complete daily tasks — including building surprise mini-apps overnight. |
 | [YouTube Content Pipeline](usecases/youtube-content-pipeline.md) | Automate video idea scouting, research, and tracking for a YouTube channel. |
 | [Multi-Agent Content Factory](usecases/content-factory.md) | Run a multi-agent content pipeline in Discord — research, writing, and thumbnail agents working in dedicated channels. |
+| [Multi-Agent Automated Website Operations](usecases/multi-agent-website-operations.md) | Run a fully automated AI content website with 5 specialized agents — SEO generation, news aggregation, community marketing, all via cron. |
 | [Autonomous Game Dev Pipeline](usecases/autonomous-game-dev-pipeline.md) | Full lifecycle management of educational game development: from backlog selection to implementation, registration, documentation, and git commit. Enforces "Bugs First" policy. |
 | [Podcast Production Pipeline](usecases/podcast-production-pipeline.md) | Automate the full podcast workflow — guest research, episode outlines, show notes, and social media promo — from topic to publish-ready assets. |
 | [AI Video Editing via Chat](usecases/ai-video-editing.md) | Edit videos by describing changes in natural language — trim, merge, add music, subtitles, color grade, crop to vertical. No timeline, no GUI. |
