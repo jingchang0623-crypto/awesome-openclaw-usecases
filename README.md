@@ -30,6 +30,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | Name | Description |
 |------|-------------|
 | [AI Marketing Operations Agent](usecases/ai-marketing-operations-agent.md) | Turn OpenClaw into a 24/7 marketing center — automated SEO content generation, trend monitoring, community engagement, and competitive intelligence. |
+| [Agency-Agents Team Templates](usecases/agency-agents-team-templates.md) | Production-ready agent personalities for OpenClaw — Frontend Developer, Backend Architect, AI Engineer, DevOps Automator, and more. Personality-driven, battle-tested workflows. |
 
 ## Social Media
 
