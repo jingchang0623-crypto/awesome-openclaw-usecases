@@ -98,6 +98,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | [Semantic Memory Search](usecases/semantic-memory-search.md) | Add vector-powered semantic search to your OpenClaw markdown memory files with hybrid retrieval and auto-sync. |
 | [arXiv Paper Reader](usecases/arxiv-paper-reader.md) | Read and analyze arXiv papers conversationally — fetch by ID, browse sections, compare abstracts, and get AI summaries. |
 | [Skills Quality Analyzer](usecases/skills-quality-analyzer.md) | Analyze 5400+ OpenClaw skills with quality scoring, security checks, and risk detection — find the gems, avoid the traps. |
+| [Skills Comparer](usecases/skills-comparer.md) | Compare 5 major Skills sources (mattpocock, anthropics, voltagent, kdense, obra) and get scenario-based recommendations to find the right skills for your agent. |
 | [LaTeX Paper Writing](usecases/latex-paper-writing.md) | Write and compile LaTeX papers conversationally with instant PDF preview — no local TeX installation needed. |
 | [HF Papers Research Discovery](usecases/hf-papers-research-discovery.md) | Discover trending ML papers on Hugging Face, triage by upvotes, and deep-read via arXiv — all conversationally. |
 
