@@ -57,6 +57,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 
 | Name | Description |
 |------|-------------|
+| [OpenClaw Skills Packager](usecases/openclaw-skills-packager-usecase.md) | Package, validate, and distribute OpenClaw skills with a standardized CLI tool. Think `npm publish` for Skills. Supports OpenClaw v2026.5.19+ `--global` flag. |
 | [n8n Workflow Orchestration](usecases/n8n-workflow-orchestration.md) | Delegate API calls to n8n workflows via webhooks — the agent never touches credentials, and every integration is visual and lockable. |
 | [Self-Healing Home Server](usecases/self-healing-home-server.md) | Run an always-on infrastructure agent with SSH access, automated cron jobs, and self-healing capabilities across your home network. |
 
